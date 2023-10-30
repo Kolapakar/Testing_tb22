@@ -4,7 +4,7 @@ public class Demo_git1
 {
 	public void m1()
 	{
-		system.out.println("m1 method");
+		System.out.println("m1 method");
 	}
 	public static void main(String[] args) 
 	{
